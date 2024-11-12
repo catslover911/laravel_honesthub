@@ -1,1 +1,2 @@
 .DS_Store
+resources/views/dashboard.blade.php
